@@ -2,7 +2,8 @@ RENCANA ADAM BETA
 1. Bisa blablabla
 - Jadi gini blablabla
 - Juga ini blablabla
-3. Ada juga ini
+- disini nambah fitur 2
 2. Juga blablabla
+-tambahan lain dari fitur 2
 3. Interview
 4. Vlog
