@@ -3,6 +3,7 @@ RENCANA ADAM BETA
 - Jadi gini blablabla
 - Juga ini blablabla
 - penambahan fitur 1
+- ini penambahan fitur 1 pada comit 2
 3. Ada juga ini
 2. Juga blablabla
 -ini juga ada tambahan fitur 1
