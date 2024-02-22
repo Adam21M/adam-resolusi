@@ -2,8 +2,11 @@ RENCANA ADAM BETA
 1. Bisa blablabla
 - Jadi gini blablabla
 - Juga ini blablabla
-- disini nambah fitur 2
+- penambahan fitur 1
+- ini penambahan fitur 1 pada comit 2
+3. Ada juga ini
 2. Juga blablabla
--tambahan lain dari fitur 2
+-ini juga ada tambahan fitur 1
 3. Interview
 4. Vlog
+5. tambahan rencana fitur 1
